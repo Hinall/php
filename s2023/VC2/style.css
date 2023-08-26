@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(255, 241, 224);
+}
+
+#localVideo{
+    max-height: 500px;
+    max-width: 500px;
+    border: 2px solid rosybrown;
+    border-radius: 20px;
+    float: left;
+    margin: 10px 20px 20px 20px;
+
+
+}
+
+#remoteVideo{
+    max-height:550px;
+    max-width: 550px;
+    border: 2px solid rosybrown;
+    border-radius: 20px;
+    float: left;
+}
